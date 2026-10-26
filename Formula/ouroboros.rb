@@ -5,7 +5,7 @@ class Ouroboros < Formula
   homepage "https://github.com/Katajisto/homebrew-ouroboros"
   url "https://github.com/Katajisto/homebrew-ouroboros/releases/download/v0.1.0/ouroboros-0.1.0-macos-arm64.tar.gz"
   version "0.1.0"
-  sha256 "6b3c431577f74b43896c34f1860f12328a3c0bfc9ffcde32235ab8d7df402987"
+  sha256 "3a70bf10cf36913f8c91d07e4efa962d367f6c6faeacc04c1d2319140d136507"
   license :cannot_represent
 
   depends_on arch: :arm64
